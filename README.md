@@ -56,7 +56,7 @@ yarn add tinycollection
 
 ```html
 <script type="module">
-  import tinycollection from 'https://cdn.jsdelivr.net/npm/tinycollection@0.0.0/+esm';
+  import tinycollection from 'https://cdn.jsdelivr.net/npm/tinycollection@latest/+esm';
 </script>
 ```
 
