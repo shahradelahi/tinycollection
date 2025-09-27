@@ -1,6 +1,6 @@
 {
   "name": "tinycollection",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lightweight, in-memory database for Node.js and browsers, offering a MongoDB-style API, advanced querying, and indexing capabilities, all written in TypeScript.",
   "keywords": [
     "collection",
