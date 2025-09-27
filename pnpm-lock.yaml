@@ -17,9 +17,6 @@ importers:
       '@shahrad/tsconfig':
         specifier: ^1.2.0
         version: 1.2.0
-      '@types/crypto-js':
-        specifier: ^4.2.2
-        version: 4.2.2
       '@types/geojson':
         specifier: ^7946.0.16
         version: 7946.0.16
@@ -464,9 +461,6 @@ packages:
 
   '@types/chai@5.2.2':
     resolution: {integrity: sha512-8kB30R7Hwqf40JPiKhVzodJs2Qc1ZJ5zuT3uzw5Hq/dhNCl3G3l83jfpdI1e20BP348+fV7VIL/+FxaXkqBmWg==}
-
-  '@types/crypto-js@4.2.2':
-    resolution: {integrity: sha512-sDOLlVbHhXpAUAL0YHDUUwDZf3iN4Bwi4W6a0W0b+QcAezUbRtH4FVb+9J4h+XFPW7l/gQ9F8qC7P+Ec4k8QVQ==}
 
   '@types/deep-eql@4.0.2':
     resolution: {integrity: sha512-c9h9dVVMigMPc4bwTvC5dxqtqJZwQPePsWjPlpSOnojbor6pGqdk541lfA7AqFQr5pB1BRdq0juY9db81BwyFw==}
@@ -1757,8 +1751,6 @@ snapshots:
   '@types/chai@5.2.2':
     dependencies:
       '@types/deep-eql': 4.0.2
-
-  '@types/crypto-js@4.2.2': {}
 
   '@types/deep-eql@4.0.2': {}
 
